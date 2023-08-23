@@ -1,0 +1,14 @@
+[
+    {
+      "Id": 1,
+      "Username": "John",
+      "Password": "pass1234", // password hash
+      "Name": "John smith"
+    },
+    {
+      "Id": 2,
+      "Username": "Mike",
+      "Password": "myPass1899",
+      "Name": "Mike Johnson"
+    }
+]

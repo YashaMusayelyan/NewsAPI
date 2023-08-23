@@ -1,0 +1,15 @@
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\bin\Debug\net5.0\News.DAL.deps.json
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\bin\Debug\net5.0\News.DAL.runtimeconfig.json
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\bin\Debug\net5.0\News.DAL.runtimeconfig.dev.json
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\bin\Debug\net5.0\News.DAL.dll
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\bin\Debug\net5.0\ref\News.DAL.dll
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\bin\Debug\net5.0\News.DAL.pdb
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\obj\Debug\net5.0\News.DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\obj\Debug\net5.0\News.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\obj\Debug\net5.0\News.DAL.AssemblyInfoInputs.cache
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\obj\Debug\net5.0\News.DAL.AssemblyInfo.cs
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\obj\Debug\net5.0\News.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\obj\Debug\net5.0\News.DAL.dll
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\obj\Debug\net5.0\ref\News.DAL.dll
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\obj\Debug\net5.0\News.DAL.pdb
+C:\Users\Asus\Source\Repos\New-NewsAPI\News.DAL\obj\Debug\net5.0\News.DAL.genruntimeconfig.cache

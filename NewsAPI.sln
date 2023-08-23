@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsAPI", "NewsAPI\NewsAPI.csproj", "{BCD5CFE0-3D95-4201-9FD0-15B250FF3807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.DAL", "News.DAL\News.DAL.csproj", "{361675B1-424D-4DD5-BF94-AA94950CD169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD5CFE0-3D95-4201-9FD0-15B250FF3807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD5CFE0-3D95-4201-9FD0-15B250FF3807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD5CFE0-3D95-4201-9FD0-15B250FF3807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD5CFE0-3D95-4201-9FD0-15B250FF3807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361675B1-424D-4DD5-BF94-AA94950CD169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361675B1-424D-4DD5-BF94-AA94950CD169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361675B1-424D-4DD5-BF94-AA94950CD169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361675B1-424D-4DD5-BF94-AA94950CD169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB2C0FC8-DC5C-46C3-A012-7133A45F2E3F}
+	EndGlobalSection
+EndGlobal
